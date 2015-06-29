@@ -1,0 +1,13 @@
+{
+  "twitterKeys": {
+    "consumer_key": "*******************",
+    "consumer_secret": "*******************",
+    "access_token": "*******************",
+    "access_token_secret": "*******************"
+  },
+  "username": "twitter_username",
+  "timeline" : {
+  	"start": "2015/06/29 12:31:43",
+  	"delay": "5|10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "gabblr",
+  "version": "0.0.1",
+  "description": "Lonely twitter bot",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellomathieu/gabblr.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "moment": "^2.10.3",
+    "nodemon": "^1.3.7",
+    "twit": "^1.1.20"
+  },
+  "author": "hellomathieu",
+  "bugs": {
+    "url": "https://github.com/hellomathieu/gabblr/issues"
+  }
+}

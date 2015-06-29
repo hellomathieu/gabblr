@@ -1,0 +1,4 @@
+node_modules
+app/conf/settings.json
+app/data/tweets.json
+app/data/*_tweets.json
